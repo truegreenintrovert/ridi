@@ -79,8 +79,8 @@ Ridi Hospital Management System (HMS) is a modern, full-stack application for ma
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/ridi-hms.git
-   cd ridi-hms
+   git clone https://github.com/yourusername/ridi.git
+   cd ridi
    ```
 
 2. **Install dependencies:**
