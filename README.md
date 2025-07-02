@@ -29,8 +29,6 @@ Ridi Hospital Management System (HMS) is a modern, full-stack application for ma
 
 ```
 .
-├── electron/
-│   └── main.js
 ├── public/
 │   └── .htaccess
 ├── src/
